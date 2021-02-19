@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Recipe-table-using-react/static/css/main.43f98d9a.chunk.css",
+    "main.js": "/Recipe-table-using-react/static/js/main.7d8ee023.chunk.js",
+    "main.js.map": "/Recipe-table-using-react/static/js/main.7d8ee023.chunk.js.map",
+    "runtime-main.js": "/Recipe-table-using-react/static/js/runtime-main.07472b67.js",
+    "runtime-main.js.map": "/Recipe-table-using-react/static/js/runtime-main.07472b67.js.map",
+    "static/js/2.2da589a7.chunk.js": "/Recipe-table-using-react/static/js/2.2da589a7.chunk.js",
+    "static/js/2.2da589a7.chunk.js.map": "/Recipe-table-using-react/static/js/2.2da589a7.chunk.js.map",
+    "index.html": "/Recipe-table-using-react/index.html",
+    "static/css/main.43f98d9a.chunk.css.map": "/Recipe-table-using-react/static/css/main.43f98d9a.chunk.css.map",
+    "static/js/2.2da589a7.chunk.js.LICENSE.txt": "/Recipe-table-using-react/static/js/2.2da589a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07472b67.js",
+    "static/js/2.2da589a7.chunk.js",
+    "static/css/main.43f98d9a.chunk.css",
+    "static/js/main.7d8ee023.chunk.js"
+  ]
+}
